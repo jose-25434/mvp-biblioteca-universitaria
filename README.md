@@ -31,7 +31,8 @@ Los diagramas UML y BPMN están en formato PNG dentro de las carpetas `uml/` y `
 - Backend: Node.js + Express o PHP
 - Base de datos: MySQL
 - Prototipo: Figma AI
-
+- Link del prototipo: https://www.figma.com/make/VfQd36n7XgccMFNHoiqR0S/Login-screen-for-library-system?p=f&t=BcAMfQjxp9nM1USS-0
+- 
 ---
 
 *Entregable final – Curso Análisis y Diseño de Sistemas*
